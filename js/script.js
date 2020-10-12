@@ -1,6 +1,5 @@
 
 
-function saludo(nombre) {
-    nombre = prompt("Ingrese su nombre: );
-    alert("¡Hola, " + nombre +"!);
+function saludo() {
+    alert("¡Hola mundo");
 }
