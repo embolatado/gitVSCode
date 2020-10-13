@@ -1,5 +1,5 @@
 
-
 function saludo() {
-    alert("¡Hola mundo");
+    let nombre = prompt("Nombre: ")
+    alert("¡Hola, " + nombre + "!");
 }
